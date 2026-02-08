@@ -47,7 +47,7 @@ I'm always interested in connecting with fellow technical leaders and discussing
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-carvallo/)
 
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://carvallo.io)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=carvallo.io&logoColor=white)](https://carvallo.io)
 
 ---
 

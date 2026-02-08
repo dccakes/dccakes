@@ -1,6 +1,6 @@
 # Diego Carvallo
 
-> Technical Leader bridging complex systems with business outcomes
+> Technical founder building AI-powered systems for healthcare
 
 ## About Me
 

@@ -16,7 +16,7 @@ Before Pickle, I architected data platforms and AI systems powering £9M product
 
 🦾 [Scrape GPT](https://github.com/dccakes/scrape-gpt) - Intelligent web scraping system that combines deterministic XPath extraction with LLM-powered adaptation. 
 
-🏥 **npi-mcp** — MCP server for NPI database access *(coming soon)*
+🏥 [npi-mcp](https://github.com/dccakes/npi-mcp) — MCP server for NPI database access *(coming soon)*
 
 ## What I Do
 
